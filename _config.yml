@@ -1,7 +1,7 @@
 ---
 title: "first post"
 date: 2020-12-26
----
+
 theme: minima
 title: Dannys life
 author: Daniel Everheart
@@ -14,3 +14,4 @@ twitter_username: danther98
 github_username:  danther98
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
